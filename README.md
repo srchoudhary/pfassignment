@@ -1,2 +1,2 @@
-# pfassignment
-frontend project for project management
+# pf_assignment
+frontend project for project resource management
